@@ -2,9 +2,7 @@ p{
     color: blue;
     background-color: burlywood;
 }
-h1{
-   background-color: olive; 
-}
+
 h2{
     color: red;
     background-color: yellow;
@@ -12,4 +10,14 @@ h2{
 h3{
     color: orangered;
     background-color: black;
+}
+h1{
+    color: olivedrab;
+    background-color: peachpuff;
+    border: 8px solid yellow;
+    border-left: 8px solid red;
+    margin: 20px 10px;
+}
+p{
+    margin: 10px 20px;
 }
